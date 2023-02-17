@@ -1,0 +1,15 @@
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\bin\Debug\net6.0\ProjectAddOpdracht.exe
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\bin\Debug\net6.0\ProjectAddOpdracht.deps.json
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\bin\Debug\net6.0\ProjectAddOpdracht.runtimeconfig.json
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\bin\Debug\net6.0\ProjectAddOpdracht.dll
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\bin\Debug\net6.0\ProjectAddOpdracht.pdb
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.csproj.AssemblyReference.cache
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.AssemblyInfoInputs.cache
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.AssemblyInfo.cs
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.dll
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\refint\ProjectAddOpdracht.dll
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.pdb
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ProjectAddOpdracht.genruntimeconfig.cache
+C:\Users\31614\source\repos\ConsoleApp1\ProjectAddOpdracht\obj\Debug\net6.0\ref\ProjectAddOpdracht.dll
